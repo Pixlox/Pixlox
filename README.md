@@ -1,6 +1,6 @@
 ## Hey! :D
 
-Hey, I'm Pixlox. I'm currently interested in and learning C# and a bit of Java. I am a minor, and that's all I want to disclose. I do not make many repositories, unless I want it to be public, because most of my stuff is only meant for specific purposes that I want to automate, use, etc. I am a huge fan of open source though!
+Hey, I'm Pixlox. I'm currently interested in and learning C# and a bit of Java. I am a minor, and that's all I want to disclose. I do not make many repositories, unless I want it to be public, because most of my stuff is only meant for very weird specific purposes that I want to automate, use, etc..
 
 
 ## Anyway...
