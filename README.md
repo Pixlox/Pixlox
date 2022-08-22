@@ -14,9 +14,9 @@ I am a 14 year old High School student, too!
    
 ### Languages I know!
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"   title="C#" alt="C#" width="80" height="80"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  title=".NET" alt=".NET" width="80" height="80"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  title="Java" alt="Java" width="80" height="80"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"   title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 ### Hobbies!
 
@@ -28,7 +28,8 @@ A few of my other hobbies include: Playing the Guitar, Editing using Adobe Premi
 
 ### What's on my desk?
 
-Laptop: Dell Latitude 7300
+**Laptop:** ***Dell Latitude 7300***
+   
 This laptop has served me well, and continues to. It works and performs great for everything that I do. It's great to code on, it's great to produce on, it's great to do everything on. It has 16GB of RAM and an Intel i5 8th Gen with Integrated Graphics. I'll probably upgrade this in the near future to have a general better setup.
 
 Monitor: LG 29" UltraWide FHD HDR
