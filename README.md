@@ -11,10 +11,9 @@ I am a 14 year old High School student, too!
 - My main language(s) right now are C# and Java.
 - I play the Guitar, sometimes.
    
-### Languages I know!
+### My main languages
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"   title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 ### Hobbies!
