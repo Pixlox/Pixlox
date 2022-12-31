@@ -27,7 +27,7 @@ Another hobby that I also greatly enjoy is Music Production! I produce music in 
 
 **Laptop:** ***Dell Latitude 7300***
    
-This laptop has served me well, and continues to. It works and performs great for everything that I do. It's great to code on, it's great to produce on, it's great to do everything on. It has 16GB of RAM and an Intel i5 8th Gen with Integrated Graphics. I'll probably upgrade this in the near future to have a general better setup.
+This laptop has served me well, and continues to. It works and performs great for everything that I do. It's great to code on, it's great to produce on, it's great to do everything on. It has 16GB of RAM and an Intel i5 8th Gen with Integrated Graphics. This will be upgraded soon in the coming months.
 
 **Monitor:** ***LG 29" UltraWide FHD HDR***
    
