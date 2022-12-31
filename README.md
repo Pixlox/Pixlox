@@ -8,9 +8,8 @@ I am a 14 year old High School student, too!
 
 - I am a 14 year old student, in Sydney, Australia!
 - My first language ever was Visual Basic.
-- My main language right now is C#.
-- I play the Guitar!
-- I have a very, very, messed up sleep schedule.
+- My main language(s) right now are C# and Java.
+- I play the Guitar, sometimes.
    
 ### Languages I know!
 <div>
@@ -20,11 +19,9 @@ I am a 14 year old High School student, too!
 
 ### Hobbies!
 
-My main hobby is, obviously, programming. Whenever I have some free time, I try to code. (It is hard to think of ideas though!) A big chunk of my projects are just me trying to automate things, that I really don't want to do myself. Sometimes I get the idea to create something cool, that my friends might like. Sometimes, I'm just bored, and want to make something completely random. Most of my projects are in C#, however I do use Java aswell.
+My main hobby is, obviously, programming. Whenever I have some free time, I try to code. A big chunk of my projects are just me trying to automate things, that I really don't want to do myself. Sometimes I get the idea to create something cool, that my friends might like. Sometimes, I'm just bored, and want to make something completely random. Most of my projects are in C# and Java like I previously mentioned, however I've been playing around with others like JavaScript, Python, and most recently, Swift.
 
-Another hobby that I also greatly enjoy is Music Production! I produce music in FL Studio, and I really enjoy it. A lot of my setup is also made up of music production gear, so that also contributes to my enjoyment for it as well, I guess! Currently, I don't have any of my music published online, but when I do, I'll place some links to it. My main genres are Future Bass, EDM and Lo-Fi.
-
-A few of my other hobbies include: Playing the Guitar, Editing using Adobe Premiere Pro and After Effects and playing video games with my friends!
+Another hobby that I also greatly enjoy is Music Production! I produce music in FL Studio, and I really enjoy it. A lot of my setup is also made up of music production gear, so that also contributes to my enjoyment for it as well, I guess! Currently, I don't have any of my music published online, but when I do, I'll place some links to it. My main genres that I listen to and produce are Future Bass, EDM and Lo-Fi.
 
 ### What's on my desk?
 
@@ -40,10 +37,6 @@ This works perfectly. I have it hooked up to my laptop and my PS4, so I can swit
    
 In my opinion, this microphone is relatively clear and of very good quality. I think it sounds it's best when used around 15cm away from your face. It's honestly a great mic that I think is very worth it. However, for music production, I am saving up to get a Audio-Technica AT2020 XLR.
 
-**Audio Interface:** ***Focusrite Scarlett Solo 3***
-   
-This Audio Interface is probably one of the most popular ones online. It serves me well, and it'll go great with the mic that I'm saving up for. I use it for general better audio quality, and also to plug in an electric guitar, if needed.
-
 **Keyboard:** ***Razer Huntsman Mini (Clicky Purple Switches)***
    
 I've had this keyboard for ages now, and it's honestly great! I know people who despise the clicky switches on these, but I love them. With my headphones on, they're just fine. Even with them off, they're good. If you don't like clicky switches, but still want this keyboard I suggest going for the Red Switches.
@@ -56,7 +49,7 @@ I bought this mouse as an impulse desision after my other mouse broke. It's also
    
 I use this on a daily basis with FL Studio! It is honestly great, and even though it's only 25 keys, I feel that's good enough for what I'm doing now. I may upgrade to a 61 key later down the line, but to start with music production this is great!
 
-**DAW:** ***FL Studio 20***
+**DAW:** ***FL Studio 21***
    
 FL Studio was my first choice when I researched about DAWs. I honestly loved it's workflow and I think it's an amazing DAW. Lifetime Free Updates is also a huge perk too! I own the Producer Edition of FL Studio for USD 199.
 
@@ -67,14 +60,6 @@ These headphones work for music production, just fine. They have a flat response
 **Headphones (Pair 2):** ***Razer Blackshark V2X***
    
 This pair is mainly just meant for gaming. It also has a knob on the side for volume, which is extremely useful. This headphones response curve shows that it is extremly bassy, so I wouldn't suggest it for music production, but it is very comfy, and I can wear it for long periods of time.
-
-**Mousepad:** ***SteelSeries QcK Edge XL***
-   
-This mousepad is...a mousepad. It works well with my mouse, leaves some space for my wrist, and feels great on my hands. It works for what it does. 
-
-**Voice Assistant:** ***Google Nest Hub***
-   
-This is useful for setting timers, or asking questions or anything general. I can also use it for Netflix and other things, but my laptop works better for that, of course. I've matched my desktop wallpaper to the wallpaper on this to give my room more of a theme.
 
 
 ### Thank you!
