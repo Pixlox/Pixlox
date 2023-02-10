@@ -24,13 +24,13 @@ Another hobby that I also greatly enjoy is Music Production! I produce music in 
 
 ### What's on my desk?
 
-**Laptop:** ***Dell Latitude 7300***
+**Laptop:** ***M2 MacBook Air***
    
-This laptop has served me well, and continues to. It works and performs great for everything that I do. It's great to code on, it's great to produce on, it's great to do everything on. It has 16GB of RAM and an Intel i5 8th Gen with Integrated Graphics. This will be upgraded soon in the coming months.
+This laptop is a great performer. It works and performs great for everything that I do. It's great to code on, it's great to produce on, it's great to do everything on. It has 16GB of RAM, and M2 Chip with 10 GPU Cores and 512GB of storage. It is an absolute pleasure to use, and the Silver colour is wonderful.
 
 **Monitor:** ***LG 29" UltraWide FHD HDR***
    
-This works perfectly. I have it hooked up to my laptop and my PS4, so I can switch between them easily. It works great, and, well...it's a monitor. It gets the job done, and does it well.
+This works perfectly. I have it hooked up to my laptop, like most people. It works great, and, well...it's a monitor. It gets the job done, and does it well.
 
 **Microphone:** ***Razer Seiren Mini***
    
