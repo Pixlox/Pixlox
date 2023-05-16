@@ -1,15 +1,12 @@
 # Hey! :D
 
-I'm Omar! However, when online I usually go by *Pixlox*. Usually, most of my projects are private, however, some of my projects are open, here on GitHub!
-
-I am a 14 year old High School student, too!
+I'm Omar! However, when online I usually go by *Pixlox*. Usually, most of my projects are private, however, some of my projects are open, so you can take a look if you like.
 
 ### Facts about me!
 
-- I am a 14 year old student, in Sydney, Australia!
+- I am a 14 year old HS student.
 - My first language ever was Visual Basic.
 - My main language(s) right now are C# and Java.
-- I play the Guitar, sometimes.
    
 ### My main languages
 <div>
@@ -19,6 +16,5 @@ I am a 14 year old High School student, too!
 
 ### Thank you!
 
-Thanks for dropping by my profile! Now, on to the repositories that I've made! See them below!
-
+Thanks for dropping by my profile! 
 
