@@ -1,8 +1,8 @@
-# Hey! :D
+# Hey!
 
 I'm Omar! However, when online I usually go by *Pixlox*. Usually, most of my projects are private, however, some of my projects are open, so you can take a look if you like.
 
-### Facts about me!
+### Stuff
 
 - I am a 14 year old HS student.
 - My first language ever was Visual Basic.
