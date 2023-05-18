@@ -7,6 +7,7 @@ I'm Omar! However, when online I usually go by *Pixlox*. Usually, most of my pro
 - I am a 14 year old HS student.
 - My first language ever was Visual Basic.
 - My main language(s) right now are C# and Java.
+- I am learning Python, JS, Go, Ruby and CPP.
    
 ### My main languages
 <div>
