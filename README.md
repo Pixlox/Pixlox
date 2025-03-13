@@ -7,7 +7,3 @@ Online, I usually go by Pixlox.
 
 [![Pixlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixlox)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixlox&hide_progress=false&layout=donut)
 
-## Socials
-- discord: @pixlox
-- twt/x: @pixloxtweets 
-
