@@ -1,6 +1,6 @@
 ## Hi, I'm Omar! 👋
 Online, I usually go by Pixlox.
-> Explore, understand, establish, and connect. That is the way of Trailblaze.
+> Explore, understand, establish, and connect. That is what it means to Trailblaze.
 
 ## About me
 - 17yo student dev based in Sydney, Australia 🇦🇺
