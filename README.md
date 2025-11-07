@@ -1,11 +1,12 @@
 ## Hi, I'm Omar! 👋
 Online, I usually go by Pixlox.
-
+> Explore, understand, establish, and connect. That is the way of Trailblaze.
 
 ## About me
 - 17yo student dev based in Sydney, Australia 🇦🇺
 - i play a lot of gacha games...
   - HSR and Genshin mainly, but ZZZ, WuWa and others too!
+
 
 
 
