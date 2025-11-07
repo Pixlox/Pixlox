@@ -7,8 +7,6 @@ Online, I usually go by Pixlox.
 - i play a lot of gacha games...
   - HSR and Genshin mainly, but ZZZ, WuWa and others too!
 
-<img align="right" height="200" src="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/09/honkai-star-rail-cyrene-broken-character-smile-1.jpg?q=70&fit=crop&w=1600&h=900&dpr=1"  />
-
 
 
 ### My languages
