@@ -1,6 +1,6 @@
 ## Hi, I'm Omar! 👋
 Online, I usually go by Pixlox.
-> Explore, understand, establish, and connect. That's how you Trailblaze.
+> Explore, understand, establish, and connect.
 
 ## About me
 - 17yo student dev based in Sydney, Australia 🇦🇺
