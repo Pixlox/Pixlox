@@ -1,13 +1,13 @@
 ## Hi, I'm Omar! 👋
-Online, I usually go by Pixlox.
+...but online, I usually go by Pixlox. Take a look at [my portfolio!](https://pixlox.me)
 > Explore, understand, establish, and connect.
+
+let's get in touch! — hi@pixlox.me
 
 ## About me
 - 17yo student dev based in Sydney, Australia 🇦🇺
 - i play a lot of gacha games...
   - HSR and Genshin mainly, but ZZZ, WuWa and others too!
-
-
 
 
 ### My languages
