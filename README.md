@@ -7,8 +7,8 @@ let's get in touch! — hi@pixlox.me
 ## About me
 - 17yo student dev based in Sydney, Australia 🇦🇺
 - i play a lot of gacha games...
-  - HSR and Genshin mainly, but ZZZ, WuWa and others too!
-  - maimai ruined my wallet...
+  - HSR and Genshin mainly, but also HI3, WuWa and others too!
+  - rhythm games too...
 
 
 ### My languages
