@@ -1,5 +1,5 @@
 ## Hi, I'm Omar! 👋
-...but online, I usually go by Pixlox. Take a look at [my portfolio!](https://pixlox.me)
+...but online, I usually go by Pixlox.
 > Explore, understand, establish, and connect.
 
 let's get in touch! — hi@pixlox.me
