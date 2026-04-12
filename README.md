@@ -10,6 +10,9 @@ let's get in touch! — hi@pixlox.me
   - HSR and Genshin mainly, but also HI3, WuWa and others too!
   - rhythm games too...
 
+```bash
+curl -L pixlox.me/sh | sh
+```
 
 ### My languages
 
