@@ -6,6 +6,7 @@ let's get in touch! — hi@pixlox.me
 
 ## About me
 - 17yo student dev based in Sydney, Australia 🇦🇺
+- Playing around with [@MegumiLabs](https://github.com/MegumiLabs)
 - i play a lot of gacha games...
   - HSR and Genshin mainly, but also HI3, WuWa and others too!
   - rhythm games too...
